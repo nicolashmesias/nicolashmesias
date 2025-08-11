@@ -21,17 +21,17 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando en JusticeLaw
+- 🔭 Actualmente estoy trabajando en A22yA23
 
 - 🌱 Estoy aprendiendo **Laravel, Kotlin (Jetpack compose) y Java**
 
-- 📚 Estudio **Análisis y Desarrollo de Software en el SENA**
+- 📚 Estudie **Análisis y Desarrollo de Software en el SENA**
 
-- 💬 Pregúntame sobre **Laravel, Css y Java**
+- 💬 Pregúntame sobre **Laravel, HTML, FXML, Css, javaFX y Java**
 
 - 📫 Puedes contactarme en **Nikomesias3@gmail.com**
 
-- 🌟 En mi tiempo libre, me gusta **Bailar música andina y trotar**
+- 🌟 En mi tiempo libre, me gusta **Bailar y trotar**
 
 <!--Intro end-->
 
